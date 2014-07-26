@@ -1,0 +1,21 @@
+<osil>
+	<instanceHeader>
+		<name>cheerilee.osil</name>
+		<source>backup</source>
+		<description></description>
+	</instanceHeader>
+	<instanceData>
+		<variables numberOfVariables= '2' >
+ 			<var name='x1' />
+ 			<var name='x2' />
+ 		</variables>
+		<variables numberOfVariables= '2' >
+ 			<var name='x1' />
+ 			<var name='x2' />
+ 		</variables>
+		<objectives>
+			<obj maxOrMin='max' numberOfObjCoef='2'>
+				<coef idx='0'>1</coef>
+				<coef idx='1'>2</coef>
+			</obj>
+		</objectives>
